@@ -33,6 +33,8 @@ Check Button:
 
 When clicked, the Check button validates the phone number input in the user-input field.
 If no number is entered, an alert will prompt the user to provide a phone number.
+
+
 Clear Button:
 
 Clears the results from the results-div element, allowing the user to start fresh.
